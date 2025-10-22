@@ -1,4 +1,4 @@
-# Hey there, I'm [Nada Eraky](https://www.linkedin.com/in/nada-refaat-eraky-358840345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 👋
+# Hey there, I'm [Nada Eraky](https://github.com/nadaeraky/nadaeraky/blob/main/README.md) 👋
 
 **Front-End Web Developer**
 
