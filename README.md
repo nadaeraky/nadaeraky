@@ -7,11 +7,9 @@
 ## 🚀 About Me
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+I am a 2025 graduate of the Faculty of Management Technology and Information Systems with High Distinction and Honors, specializing in Front-End Development with a strong focus on user experience. I have hands-on experience in designing and building interactive interfaces using HTML, CSS, JavaScript, React, and TypeScript, while applying UI/UX principles to ensure usability and visual appeal.
 
-I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. <br/>
-I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
-
-
+I developed my skills through a Front-End course, a Fundamentals of IT course, and multiple self-study programs, and I have worked on several projects that allowed me to combine design and development in real-world applications. I am currently pursuing a Postgraduate Diploma in Information Systems and I’m passionate about transforming ideas into professional and engaging digital experiences.
 
 
 <br clear="right"/>
